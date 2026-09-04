@@ -37,6 +37,7 @@
   "advancements.plantz.win_zombie_raid.description": "击退僵尸袭击！",
   "advancements.plantz.start_hardest_raid": "僵王博士的军队",
   "advancements.plantz.start_hardest_raid.description": "以最高难度开始一场僵尸袭击！",
+
   "message.plantz.too_damaged": "%s损坏太严重，无法移栽！",
   "message.plantz.empty_packet": "这个种子包是空的！",
   "message.plantz.already_planted": "这里已经种了植物！",
@@ -47,6 +48,7 @@
   "message.plantz.entity_limit": "你在附近种植的%s太多了！",
   "message.plantz.growing": "%s正在结出种子！",
   "message.plantz.sleeping": "%s睡着了！",
+
   "death.attack.zombie_eat": "%1$s被%2$s吃掉了",
   "death.attack.zombie_smash": "%1$s被%2$s砸扁了",
   "death.attack.zombie_trample": "%1$s被%2$s践踏了",
@@ -68,6 +70,7 @@
   "death.attack.toxic": "%1$s中毒了",
   "death.attack.toxic.player": "%1$s被%2$s毒死了",
   "death.attack.paint": "%1$s被%2$s制成了一件艺术品",
+
   "event.plantz.zombie_raid": "僵尸袭击",
   "event.plantz.zombie_raid.start": "僵尸们来了……",
   "event.plantz.zombie_raid.start.after_credits": "僵尸们变得更强，卷土重来了……",
@@ -83,9 +86,11 @@
   "event.plantz.zombie_raid.victory_title": "胜利！",
   "event.plantz.zombie_raid.defeat": "旗帜被摧毁了。",
   "event.plantz.zombie_raid.defeat_title": "失败",
+
   "effect.plantz.zombie_omen": "僵尸之兆",
   "effect.plantz.toxic": "毒性",
-  "effect.plantz.freeze": "冰冻",
+  "effect.plantz.frozen": "冰冻",
+  "effect.plantz.chilled": "减速",
   "effect.plantz.hypnotize": "魅惑",
   "effect.plantz.buttered": "黄油",
   "effect.plantz.tangled": "缠绕",
@@ -107,6 +112,7 @@
   "effect.plantz.painted.purple": "已染成紫色",
   "effect.plantz.painted.magenta": "已染成品红色",
   "effect.plantz.painted.pink": "已染成粉红色",
+
   "component.stored_sun.desc": "储存并使用收集到的阳光",
   "component.stored_sun": "%s/%s",
   "component.stored_water.desc": "可用于为植物浇水",
@@ -115,6 +121,7 @@
   "component.blocks_damage.desc": "拦截投射物：",
   "component.blocks_damage": "破碎概率：%s%%",
   "item.plantz.zombie_banner": "脑子旗帜",
+
   "item.plantz.sun": "阳光",
   "item.plantz.sun_bottle": "阳光瓶",
   "item.plantz.sun_battery": "太阳能电池",
@@ -140,6 +147,7 @@
   "item.plantz.seed_packet.entity": "%s种子",
   "item.plantz.blueprint": "机器蓝图",
   "item.plantz.blueprint.entity": "%s蓝图",
+
   "item.plantz.white_balloon": "白色气球",
   "item.plantz.light_gray_balloon": "淡灰色气球",
   "item.plantz.gray_balloon": "灰色气球",
@@ -156,6 +164,7 @@
   "item.plantz.purple_balloon": "紫色气球",
   "item.plantz.magenta_balloon": "品红色气球",
   "item.plantz.pink_balloon": "粉红色气球",
+
   "item.plantz.mailbox": "邮箱",
   "item.plantz.light_gray_mailbox": "淡灰色邮箱",
   "item.plantz.gray_mailbox": "灰色邮箱",
@@ -172,10 +181,14 @@
   "item.plantz.purple_mailbox": "紫色邮箱",
   "item.plantz.magenta_mailbox": "品红色邮箱",
   "item.plantz.pink_mailbox": "粉红色邮箱",
+
   "item.plantz.blue_garden_gnome": "蓝色花园地精",
   "item.plantz.green_garden_gnome": "绿色花园地精",
   "item.plantz.red_garden_gnome": "红色花园地精",
   "item.plantz.yellow_garden_gnome": "黄色花园地精",
+
+  "item.plantz.lawn_flamingo": "草坪火烈鸟",
+
   "item.plantz.brainz_alloy_block": "脑子合金块",
   "item.plantz.brainz_alloy_stairs": "脑子合金楼梯",
   "item.plantz.brainz_alloy_slab": "脑子合金台阶",
@@ -183,6 +196,7 @@
   "item.plantz.reinforced_brainz_alloy_block": "强化脑子合金",
   "item.plantz.brainz_alloy_fence": "脑子合金栅栏",
   "item.plantz.gravestone": "墓碑",
+
   "item.minecraft.potion.effect.hypnotize": "魅惑药水",
   "item.minecraft.splash_potion.effect.hypnotize": "喷溅型魅惑药水",
   "item.minecraft.lingering_potion.effect.hypnotize": "滞留型魅惑药水",
@@ -192,6 +206,7 @@
   "item.minecraft.potion.effect.electrified": "通电药水",
   "item.minecraft.splash_potion.effect.electrified": "喷溅型通电药水",
   "item.minecraft.lingering_potion.effect.electrified": "滞留型通电药水",
+
   "item.plantz.browncoat_spawn_egg": "僵尸刷怪蛋",
   "item.plantz.newspaper_zombie_spawn_egg": "读报僵尸刷怪蛋",
   "item.plantz.digger_zombie_spawn_egg": "矿工僵尸刷怪蛋",
@@ -206,9 +221,13 @@
   "item.plantz.super_brainz_spawn_egg": "超尸刷怪蛋",
   "item.plantz.imp_spawn_egg": "小鬼僵尸刷怪蛋",
   "item.plantz.gargantuar_spawn_egg": "巨人僵尸刷怪蛋",
+
   "item.plantz.gnome_spawn_egg": "花园地精刷怪蛋",
+
   "item.plantz.music_disc_grassy_groove": "音乐唱片",
+
   "jukebox_song.plantz.grassy_groove": "joshxviii - Grassy Groove",
+
   "block.plantz.time_machine": "时光机",
   "block.plantz.blue_garden_gnome": "蓝色花园地精",
   "block.plantz.green_garden_gnome": "绿色花园地精",
@@ -230,6 +249,7 @@
   "block.plantz.purple_mailbox": "紫色邮箱",
   "block.plantz.magenta_mailbox": "品红色邮箱",
   "block.plantz.pink_mailbox": "粉红色邮箱",
+
   "entity.plantz.empty": "空",
   "entity.plantz.sunflower": "向日葵",
   "entity.plantz.peashooter": "豌豆射手",
@@ -258,6 +278,7 @@
   "entity.plantz.seashroom": "海蘑菇",
   "entity.plantz.coffeebean": "咖啡豆",
   "entity.plantz.grave_buster": "墓碑吞噬者",
+
   "entity.plantz.browncoat": "僵尸",
   "entity.plantz.newspaper_zombie": "读报僵尸",
   "entity.plantz.digger_zombie": "矿工僵尸",
@@ -273,13 +294,17 @@
   "entity.plantz.super_brainz": "超尸",
   "entity.plantz.imp": "小鬼僵尸",
   "entity.plantz.gargantuar": "巨人僵尸",
+
   "entity.plantz.zombie_turret": "僵尸炮塔",
   "entity.plantz.electro_turret": "电击炮塔",
   "entity.plantz.zombie_drone": "僵尸无人机",
   "entity.plantz.lawn_mower": "草坪清扫车",
+
   "entity.plantz.gnome": "花园地精",
   "entity.plantz.plant_pot_minecart": "花盆矿车",
+
   "itemGroup.plantz.plantz_tab": "植物与僵尸",
+
   "container.plantz.send_mail": "发送邮件",
   "container.plantz.mailbox_coords": "%d，%d，%d",
   "container.plantz.address_search": "搜索邮箱…",
@@ -287,16 +312,21 @@
   "container.plantz.mailbox_full": "那个邮箱已经满了！",
   "container.plantz.mailbox_success": "发送成功！",
   "container.plantz.time_machine.wip": "？？？",
+
   "plantz.subtitles.projectile.deflected": "投射物：被弹开",
   "plantz.subtitles.projectile.fire": "投射物：发射",
+
   "plantz.subtitles.entity.chomper.attack": "大嘴花：撕咬",
   "plantz.subtitles.entity.zombie.eat": "僵尸：啃咬",
+
   "plantz.subtitles.entity.gnome.ambient": "地精：低吼",
   "plantz.subtitles.entity.gnome.death": "地精：死亡",
   "plantz.subtitles.entity.gnome.hurt": "地精：受伤",
+
   "plantz.subtitles.entity.zombie_yeti.ambient": "雪人僵尸：低吼",
   "plantz.subtitles.entity.zombie_yeti.death": "雪人僵尸：死亡",
   "plantz.subtitles.entity.zombie_yeti.hurt": "雪人僵尸：受伤",
+
   "plantz.subtitles.entity.newspaper_zombie.ambient": "读报僵尸：低吼",
   "plantz.subtitles.entity.newspaper_zombie.death": "读报僵尸：死亡",
   "plantz.subtitles.entity.newspaper_zombie.hurt": "读报僵尸：受伤",
@@ -315,6 +345,7 @@
   "plantz.subtitles.entity.gargantuar.ambient": "巨人僵尸：低吼",
   "plantz.subtitles.entity.gargantuar.death": "巨人僵尸：死亡",
   "plantz.subtitles.entity.gargantuar.hurt": "巨人僵尸：受伤",
+
   "plantz.subtitles.event.mob_effect.hypnotized": "生物：被魅惑",
   "plantz.subtitles.event.mob_effect.zombie_omen": "僵尸袭击：迫在眉睫"
 }
